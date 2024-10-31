@@ -1,0 +1,4 @@
+telebot~=0.0.5
+pymongo~=4.10.1
+python-dotenv~=1.0.1
+bson~=0.5.10
